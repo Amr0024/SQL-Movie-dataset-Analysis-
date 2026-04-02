@@ -72,7 +72,7 @@ Most data analysis courses teach SQL in isolation from real workflows. This proj
 ## How to Run
 ```bash
 git clone https://github.com/Amr0024/SQL-Movie-dataset-Analysis.git
-cd SQL-Movie-dataset-Analysis-
+cd SQL-Movie-dataset-Analysis
 pip install pandas matplotlib ipython-sql
 jupyter notebook sql_movie_analysis.ipynb
 ```
