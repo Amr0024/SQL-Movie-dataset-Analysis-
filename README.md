@@ -26,6 +26,7 @@ Most data analysis courses teach SQL in isolation from real workflows. This proj
 <!-- Upload your chart images to this repo, then replace the filenames below -->
 
 ![Rating Distribution](images/rating_distribution.png)
+
 *Distribution of all ratings — clear skew toward positive scores*
 
 ![Most Rated Movies](images/most_rated_movies.png)
