@@ -23,7 +23,7 @@ Most data analysis courses teach SQL in isolation from real workflows. This proj
 
 ## Screenshots
 
-<!-- Upload your chart images to this repo, then replace the filenames below -->
+
 
 *Distribution of all ratings — clear skew toward positive scores*
 
